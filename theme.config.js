@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
+  github: 'https://github.com/Allzon/estatuto-blog',
   docsRepositoryBase: 'https://github.com/Allzon/estatuto-blog',
   titleSuffix: ' – DCAMH',
   logo: (
