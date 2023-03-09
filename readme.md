@@ -1,3 +1,8 @@
+# Estatuto do Diretorio Acadêmico Margaret Hamilton
+Esse projeto tem como intuito servir para compartilhar e propragar o estatudo do Diretorio do curso de Ciencia da Computação da UFC campus russas.
+
+Projeto desenvolvido por estudantes do proprio curso
+
 # [Nextra](https://nextra.vercel.app)
 
 _Warning: this project is not production ready, API might change without notice._
